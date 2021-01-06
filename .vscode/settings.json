@@ -6,6 +6,9 @@
         "algorithm": "cpp",
         "unordered_map": "cpp",
         "xhash": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "xstring": "cpp",
+        "queue": "cpp",
+        "string": "cpp"
     }
 }
